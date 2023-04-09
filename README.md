@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/mariathmatheus/LoginScreen/blob/main/imagens/LoginScreen.gif" alt="Gif preview">
+<img src="https://github.com/mariathmatheus/AnimatedMenu/blob/main/assets/LoginScreen.gif" alt="Gif preview">
 </p>
 
 ## ✨ Tecnologias
